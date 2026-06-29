@@ -4,3 +4,5 @@
   2）Synchrosqueezing Toolbox：https://github.com/ebrevdo/synchrosqueezing
 2. NSP_feature extraction.m: code for Feature extraction
 3. NSP_classification.m: code for Training and classification
+4. Average_power_spectrum.m: Analysis of the Average Power Spectrum of NSP Components
+5. NSP_topoplot.m：topography analysis
